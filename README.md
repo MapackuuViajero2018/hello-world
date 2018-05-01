@@ -1,4 +1,3 @@
-# hello-world
-starting git
-# This is a practicing repository for starting and learning how to use github
-# 
+# Data Incubator -  Capstone Project
+# This is a repository for sharing the graphs
+ 
